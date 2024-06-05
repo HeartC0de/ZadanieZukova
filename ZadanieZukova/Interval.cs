@@ -17,10 +17,5 @@ namespace ZadanieZukova
             StartTime = start;
             EndTime = end;
         }
-
-        public void freeSpoons()
-        {
-            
-        }
     }
 }
